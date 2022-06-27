@@ -1,0 +1,33 @@
+
+
+.box{
+   border-radius: 6px;
+   height: 40px;
+   width: 80px;
+   margin: 50px auto;
+
+}
+
+.box-uno{
+
+
+    background-color: blue;
+}
+
+.box-dos{
+
+    background-color: brown;
+}
+
+
+.box:hover{
+
+
+    transform: scale(4);
+    transition: all 4s;
+}
+
+.animate__heartBeat:hover{
+
+    transition: all 4s; 
+}
